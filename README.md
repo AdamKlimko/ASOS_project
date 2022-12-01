@@ -9,6 +9,7 @@ Autori:
 ## Popis
 Náš projekt sa venuje dvom témam, repozitár obsahuje aplikáciu s 
 ukážkou Spring AMQP a aplikáciu s ukážkou Spring Security.
+Kódy k ukážkam sú dostupné v príslušných branches
 
 ## Prílohy
 
